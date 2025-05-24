@@ -8,7 +8,7 @@
 <br>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10457a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rafael+Wanderly+Arruda+Paixão;Eu+tenho+35+anos;Eu+sou+do+Brasil,+SP;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10457a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rafael+Wanderly+Arruda+Paixão;Eu+tenho+36+anos;Eu+sou+do+Brasil,+SP;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
